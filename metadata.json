@@ -1,0 +1,7 @@
+{
+  "name": "Med-ReLive",
+  "description": "A high-fidelity medical search platform helping users find medicine availability in nearby stores, with a dedicated dashboard for pharmacies to manage stock in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
